@@ -52,7 +52,7 @@ const mobile=window.innerWidth<=768 ? true:false;
             </div>
             <div>
               <span>
-              <NumberCounter end={1000} start={600} delay='2' preFix='+'/>
+              <NumberCounter end={1000} start={700} delay='2' preFix='+'/>
               </span>
               <span>members joined</span>
             </div>
